@@ -181,7 +181,7 @@ body {
   row-gap: 20px;
 }
 .menu__link {
-  font-family: Raleway;
+  font-family: "Raleway", sans-serif;
   font-size: 16px;
   font-weight: 500;
   line-height: 16px;
@@ -222,7 +222,7 @@ body {
 @media (max-width: 930px) {
   .menu__link {
     color: #282B22;
-    font-family: Raleway;
+    font-family: "Raleway", sans-serif;
     font-size: 18px;
     font-weight: 500;
     line-height: 27px;
@@ -245,7 +245,7 @@ body {
   }
 
   .menu__link {
-    font-family: Raleway;
+    font-family: "Raleway", sans-serif;
     font-size: 22px;
     font-weight: 500;
     line-height: 29px;
@@ -328,7 +328,7 @@ body {
 }
 .footer__title {
   color: #3D4A39;
-  font-family: Raleway;
+  font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-weight: 600;
   line-height: 18px;
@@ -358,7 +358,7 @@ body {
 }
 .footer-copy__text {
   color: #282B22;
-  font-family: Raleway;
+  font-family: "Raleway", sans-serif;
   font-size: 14px;
   font-weight: 500;
   line-height: 14px;
